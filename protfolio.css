@@ -8,6 +8,7 @@
     scroll-behavior: smooth;
     border: none;
     outline: none;
+    color: #fff;
 }
 :root{
     --bg-color: #191919;
